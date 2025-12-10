@@ -1,0 +1,5 @@
+{
+  "name": "ShortsNews AI",
+  "description": "A minimalist news aggregator powered by Gemini AI, inspired by Inshorts.",
+  "requestFramePermissions": []
+}
